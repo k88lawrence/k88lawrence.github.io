@@ -1,3 +1,3 @@
 [Personal Portfolio Site][live]
 
-[live]: https://kathrynfosterlawrence.com
+[live]: http://kathrynfosterlawrence.com
