@@ -809,9 +809,25 @@ fieldset {
 
 .left {
   left: 0 !important;
+  margin-bottom: 10px;
 }
 
 [class*="devicon-"]{
   font-size: 160px;
   color: #444;
+}
+
+.diamond {
+  padding: 0 8px 10px 0px;
+  margin-bottom: 20px;
+}
+
+.diamond+a {
+  padding-right: 10px;
+  margin-bottom: 20px;
+
+}
+
+#projects h4 {
+  margin-bottom: 10px;
 }
