@@ -157,7 +157,6 @@ nav a {
 .hero {
   width: calc(100%);
   height: calc(100vh - 50px);
-  /*background-image: url("../img/background.jpg");*/
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
