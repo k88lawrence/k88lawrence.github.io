@@ -1,13 +1,12 @@
 import React from 'react'
 
 import Box from './ui/Box'
-// import Text from './styledComponents/Text'
+import Heading from './ui/Heading'
 // import Link from './styledComponents/Link'
-
 
 const App = () => (
   <Box>
-    websute
+    <Heading level={1}>Kathryn Foster Lawrence</Heading>
   </Box>
 )
 
