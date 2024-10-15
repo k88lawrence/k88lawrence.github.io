@@ -6,6 +6,11 @@
   color: #211614;
 }
 
+html,
+body,
+#root {
+  height: 100%;
+}
 .App {
   text-align: center;
   background-color: #211614;
