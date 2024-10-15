@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f7f4a70.css",
-    "main.js": "/static/js/main.90319c8e.js",
+    "main.css": "/static/css/main.4abc3aae.css",
+    "main.js": "/static/js/main.15283e2b.js",
     "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
     "static/media/the-penitent-magdalen.jpg": "/static/media/the-penitent-magdalen.47eb1311dc23c4f36d91.jpg",
     "static/media/skull-icon.jpg": "/static/media/skull-icon.76bc2acbd46f833a1222.jpg",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.6d76acb3fd7138ea3dbdbee4749c35b4.svg",
     "index.html": "/index.html",
-    "main.2f7f4a70.css.map": "/static/css/main.2f7f4a70.css.map",
-    "main.90319c8e.js.map": "/static/js/main.90319c8e.js.map",
+    "static/media/cara-icon.svg": "/static/media/cara-icon.d25abb632e2c9f593fca5a4fe3a54337.svg",
+    "main.4abc3aae.css.map": "/static/css/main.4abc3aae.css.map",
+    "main.15283e2b.js.map": "/static/js/main.15283e2b.js.map",
     "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f7f4a70.css",
-    "static/js/main.90319c8e.js"
+    "static/css/main.4abc3aae.css",
+    "static/js/main.15283e2b.js"
   ]
 }
