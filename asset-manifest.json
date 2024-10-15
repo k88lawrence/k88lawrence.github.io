@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4abc3aae.css",
+    "main.css": "/static/css/main.5231e607.css",
     "main.js": "/static/js/main.15283e2b.js",
     "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
     "static/media/the-penitent-magdalen.jpg": "/static/media/the-penitent-magdalen.47eb1311dc23c4f36d91.jpg",
@@ -8,12 +8,12 @@
     "static/media/instagram-icon.svg": "/static/media/instagram-icon.6d76acb3fd7138ea3dbdbee4749c35b4.svg",
     "index.html": "/index.html",
     "static/media/cara-icon.svg": "/static/media/cara-icon.d25abb632e2c9f593fca5a4fe3a54337.svg",
-    "main.4abc3aae.css.map": "/static/css/main.4abc3aae.css.map",
+    "main.5231e607.css.map": "/static/css/main.5231e607.css.map",
     "main.15283e2b.js.map": "/static/js/main.15283e2b.js.map",
     "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4abc3aae.css",
+    "static/css/main.5231e607.css",
     "static/js/main.15283e2b.js"
   ]
 }
