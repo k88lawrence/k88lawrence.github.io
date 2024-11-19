@@ -1,0 +1,74 @@
+.met-copyist-landing-page-outer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #110908;
+  padding: 15px;
+  background-image: url('../images/the-penitent-magdalen.jpg');
+  background-position: center top;
+  background-size: cover;
+}
+
+.met-copyist-landing-page-inner {
+  max-width: 600px;
+  width: 100%;
+  background-color: rgba(255, 255, 255);
+  padding: 15px;
+  border-radius: 15px;
+  height: fit-content;
+}
+
+.met-copyist-header {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.met-copyist-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.text-link {
+  color: #e4002b;
+}
+
+.text-link:visited {
+  color: #871B2F;
+}
+
+.met-copyist-link {
+  width: 100%;
+  padding: 15px;
+  text-align: center;
+  background-color:#211614;
+  border-radius: 30px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  margin-bottom: 15px;
+  transition: all .25s ease-in-out;
+  /* border: 2px solid rgb(51, 51, 51); */
+}
+
+.met-copyist-link:hover {
+  background-color: #e4002b;
+  color: white;
+}
+
+.social-icon {
+  width: 25px;
+  height: auto;
+}
+
+.social-icon:first-of-type {
+  margin-right: 10px;
+}
