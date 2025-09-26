@@ -1,16 +1,9 @@
-* {
-  font-family: "Baskervville", serif;
-  font-size: 16px;
-  font-weight: 500;
-  box-sizing: border-box;
-  color: #211614;
-}
-
 html,
 body,
 #root {
   height: 100%;
 }
+
 .App {
   text-align: center;
   background-color: #211614;
@@ -22,15 +15,13 @@ body,
 }
 
 .App-header {
-
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
 h1 {
-  font-family: "Beth Ellen", cursive;
   font-size: 22px;
-  color: inherit;
+  color: #fff;
 }
 
 img {
