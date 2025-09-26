@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5231e607.css",
-    "main.js": "/static/js/main.f1e588e8.js",
-    "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
-    "static/media/the-penitent-magdalen.jpg": "/static/media/the-penitent-magdalen.47eb1311dc23c4f36d91.jpg",
-    "static/media/skull-icon.jpg": "/static/media/skull-icon.76bc2acbd46f833a1222.jpg",
+    "main.css": "/static/css/main.43801fd4.css",
+    "main.js": "/static/js/main.f3d9bd8c.js",
+    "static/media/Strawberries.jpg": "/static/media/Strawberries.0bc71c2df230419c8a45.jpg",
     "static/media/instagram-logo.svg": "/static/media/instagram-logo.6d76acb3fd7138ea3dbdbee4749c35b4.svg",
     "index.html": "/index.html",
     "static/media/tiktok-logo.svg": "/static/media/tiktok-logo.633b9cda22db478798ee65cc96d598fb.svg",
     "static/media/cara-logo.svg": "/static/media/cara-logo.d25abb632e2c9f593fca5a4fe3a54337.svg",
-    "main.5231e607.css.map": "/static/css/main.5231e607.css.map",
-    "main.f1e588e8.js.map": "/static/js/main.f1e588e8.js.map",
-    "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
+    "static/media/icons8-substack.svg": "/static/media/icons8-substack.b0620c2c2885cdd0abc4844b4f641e68.svg",
+    "main.43801fd4.css.map": "/static/css/main.43801fd4.css.map",
+    "main.f3d9bd8c.js.map": "/static/js/main.f3d9bd8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5231e607.css",
-    "static/js/main.f1e588e8.js"
+    "static/css/main.43801fd4.css",
+    "static/js/main.f3d9bd8c.js"
   ]
 }
