@@ -1,6 +1,7 @@
 import InstagramLogo from "../images/instagram-logo.svg";
 import CaraLogo from "../images/cara-logo.svg";
 import TikTokLogo from "../images/tiktok-logo.svg";
+import SubstackLogo from "../images/icons8-substack.svg";
 
 const Socials = () => (
   <>
@@ -16,7 +17,7 @@ const Socials = () => (
       rel="noreferrer"
       href="https://katelawrenceart.substack.com/"
     >
-      <img className="social-icon" alt="Substack" src={CaraLogo} />
+      <img className="social-icon" alt="Substack" src={SubstackLogo} />
     </a>
     <a
       target="_blank"
