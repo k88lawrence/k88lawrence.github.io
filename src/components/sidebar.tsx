@@ -1,33 +1,38 @@
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 import Socials from "./socials";
 
 import "./sidebar.css";
 
-const Sidebar = () => (
-  <div className="sidebar">
-    <div>
-      <Link to="/">
-        <h1>Kate Lawrence</h1>
-      </Link>
-      <nav>
-        <Link className="nav-link" to="/drawings">
-          Drawings
-        </Link>
-        <Link className="nav-link" to="/paintings">
-          Paintings
-        </Link>
-        <Link className="nav-link" to="/cv">
-          CV
-        </Link>
-        <Link className="nav-link" to="/contact">
-          Contact
-        </Link>
-      </nav>
-    </div>
+const Sidebar = () => {
+  const getLinkClasses = ({ isActive }: { isActive: boolean }) =>
+    isActive ? "nav-link active-nav-link" : "nav-link";
 
-    <Socials />
-  </div>
-);
+  return (
+    <div className="sidebar">
+      <div>
+        <NavLink to="/">
+          <h1>Kate Lawrence</h1>
+        </NavLink>
+        <nav>
+          <NavLink className={getLinkClasses} to="/drawings">
+            Drawings
+          </NavLink>
+          <NavLink className={getLinkClasses} to="/paintings">
+            Paintings
+          </NavLink>
+          <NavLink className={getLinkClasses} to="/cv">
+            CV
+          </NavLink>
+          <NavLink className={getLinkClasses} to="/contact">
+            Contact
+          </NavLink>
+        </nav>
+      </div>
+
+      <Socials />
+    </div>
+  );
+};
 
 export default Sidebar;

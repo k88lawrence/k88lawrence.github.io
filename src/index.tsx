@@ -9,6 +9,7 @@ import App from "./App";
 import CVPage from "./cv-page";
 import PaintingsPage from "./paintings-page";
 import DrawingsPage from "./drawings-page";
+import ContactPage from "./contact-page";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement,
@@ -23,6 +24,7 @@ root.render(
         <Route path="/cv" element={<CVPage />} />
         <Route path="/paintings" element={<PaintingsPage />} />
         <Route path="/drawings" element={<DrawingsPage />} />
+        <Route path="/contact" element={<ContactPage />} />
       </Routes>
     </HashRouter>
   </React.StrictMode>,
