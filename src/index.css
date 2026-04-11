@@ -1,13 +1,32 @@
 * {
-  font-family: "Libre Baskerville", serif;
+  font-family: "Cardo", serif;
   font-size: 16px;
   font-weight: 500;
   box-sizing: border-box;
   color: #211614;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: left;
 }
 
 body {
   margin: 0;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+p {
+  margin-block-start: 0;
 }

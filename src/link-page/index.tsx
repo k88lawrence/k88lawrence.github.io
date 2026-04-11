@@ -4,7 +4,6 @@ import SkullIcon from "../images/Strawberries.jpg";
 import InstagramLogo from "../images/instagram-logo.svg";
 import CaraLogo from "../images/cara-logo.svg";
 import TikTokLogo from "../images/tiktok-logo.svg";
-import SubstackLogo from "../images/icons8-substack.svg";
 
 const LinkPage = () => {
   return (
@@ -27,19 +26,6 @@ const LinkPage = () => {
               src={InstagramLogo}
             />
             Instagram
-          </a>
-          <a
-            target="_blank"
-            className="link-page-link"
-            rel="noreferrer"
-            href="https://katelawrenceart.substack.com/"
-          >
-            <img
-              className="link-page-link-icon"
-              alt="Substack"
-              src={SubstackLogo}
-            />
-            Substack
           </a>
           <a
             target="_blank"
