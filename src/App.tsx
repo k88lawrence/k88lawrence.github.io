@@ -1,17 +1,13 @@
 import "./App.css";
 
-import Socials from "./components/socials";
+import Layout from "./components/layout";
 
 const App = () => (
-  <div className="App">
-    <header className="App-header">
-      <h1>Coming Soon</h1>
-    </header>
-
-    <div className="footer">
-      <Socials />
-    </div>
-  </div>
+  <>
+    <Layout>
+      <h2>main</h2>
+    </Layout>
+  </>
 );
 
 export default App;
