@@ -30,3 +30,24 @@ h2 {
 p {
   margin-block-start: 0;
 }
+
+.contact-page {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-page-image {
+  width: calc(50% - 10px);
+}
+
+.contact-page-text {
+  width: calc(50% - 10px);
+}
+
+.contact-page-text a {
+  text-decoration: underline;
+}
+
+.contact-page-text p {
+  /* margin-bottom: 0; */
+}

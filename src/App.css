@@ -64,7 +64,7 @@ footer {
   margin-bottom: 0;
 }
 
-.image-object img {
+.image-object a {
   max-width: 65%;
   margin-right: 20px;
 }

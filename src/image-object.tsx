@@ -8,7 +8,9 @@ const ImageObject = ({
   children: React.ReactNode;
 }) => (
   <div className="image-object">
-    <img src={image} alt={title} />
+    <a target="_blank" rel="noreferrer" href={image}>
+      <img src={image} alt={title} />
+    </a>
     <div className="image-description">
       <p>{title}</p>
       {children}
