@@ -14,11 +14,6 @@ body,
   height: 100%;
 }
 
-.sidebar {
-  width: 300px;
-  text-align: left;
-}
-
 nav {
   display: flex;
   flex-direction: column;
@@ -65,7 +60,8 @@ footer {
 }
 
 .image-object a {
-  max-width: 65%;
+  width: 65%;
+  /* background-color: #c7c7c7; */
   margin-right: 20px;
 }
 
@@ -77,4 +73,45 @@ footer {
 main {
   overflow-y: scroll;
   width: 100%;
+}
+
+.mobile-footer {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .App {
+    flex-direction: column;
+    overflow: scroll;
+    padding-top: 0px
+  }
+
+  main {
+    overflow-y: visible;
+    margin-top: 144px
+  }
+
+  .image-object {
+    flex-direction: column;
+  }
+
+  .image-object a {
+    width: 100%;
+  }
+
+  .mobile-footer {
+    display: inline-block;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  p, li {
+    font-size: 1.25rem;
+  }
 }

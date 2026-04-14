@@ -12,14 +12,17 @@ const DrawingsPage = () => (
       title="Self Portrait as a Witch Transforming into a Hare"
     >
       <p>2025</p>
+      <p>4.75” x 6.625”</p>
       <p>graphite on paper</p>
     </ImageObject>
     <ImageObject image={SheWolf} title="The She Wolf">
       <p>2025</p>
+      <p>6.5” x 11”</p>
       <p>graphite on paper</p>
     </ImageObject>
     <ImageObject image={SelfPortraitSphinx} title="Self Portrait as a Sphinx">
       <p>2024</p>
+      <p>6.25” x 4.5”</p>
       <p>graphite on paper</p>
     </ImageObject>
   </Layout>

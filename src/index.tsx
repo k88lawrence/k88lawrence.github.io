@@ -1,8 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route, Navigate } from "react-router-dom";
 
 import "./index.css";
+import "./App.css";
 import App from "./App";
 
 // import LinkPage from "./link-page";
@@ -19,7 +20,7 @@ root.render(
   <React.StrictMode>
     <HashRouter>
       <Routes>
-        <Route path="/" element={<App />} />
+        <Route path="/" element={<Navigate to="/drawings" />} />
         {/* <Route path="/links" element={<LinkPage />} /> */}
         <Route path="/cv" element={<CVPage />} />
         <Route path="/paintings" element={<PaintingsPage />} />

@@ -1,0 +1,72 @@
+.mobile-menu {
+  position: fixed;
+  padding-top: 50px;
+  background-color: #f5f5f5;
+  width: calc(100% - 100px);
+}
+
+.mobile-header {
+  display: none;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.mobile-header h1 {
+  margin-bottom: 0;
+}
+
+.hamburger-button {
+  flex-direction: column;
+  padding: 0;
+  width: 38px;
+}
+
+.hamburger-button .bar-1 {
+  width: 100%;
+  margin-bottom: 6px;
+  border-bottom: 3px solid #211614;
+  transform-origin: center;
+  transition: all 0.5s ease;
+}
+
+.open-hamburger-button .bar-1 {
+  transform: rotate(-45deg) translatey(13px);
+}
+
+.hamburger-button .bar-2 {
+  width: 100%;
+  margin-bottom: 6px;
+  border-bottom: 3px solid #211614;
+  opacity: 1;
+  transition: all 0.25s ease;
+}
+.open-hamburger-button .bar-2 {
+  opacity: 0;
+}
+
+
+.hamburger-button .bar-3 {
+  width: 100%;
+  margin-bottom: 6px;
+  border-bottom: 3px solid #211614;
+  transition: all 0.5s ease;
+  transform-origin: center;
+}
+
+.open-hamburger-button .bar-3 {
+  transform: rotate(45deg) translatey(-13px);
+}
+
+.mobile-nav {
+  position: absolute;
+  background-color: #f5f5f5;
+  width: 100vw;
+  height: 100vh;
+}
+
+@media (max-width: 900px) {
+  .mobile-header {
+    display: flex;
+  }
+}
