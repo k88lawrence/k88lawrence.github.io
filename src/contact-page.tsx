@@ -7,15 +7,15 @@ const ContactPage = () => (
     <div className="contact-page">
       <div className="contact-page-text">
         <p>
-          Kate Lawrence is a fine artist based out of Brooklyn, NY. After
-          working as a software engineer during her twenties and early thirties,
-          Kate decided to pursue her dream of a making a career as an artist and
-          began attending the neoclassical atelier Grand Central Atelier in
-          2023. After completing the drawing year, h
+          Kate Lawrence is a fine artist based in Brooklyn, NY. After working as
+          a software engineer during her twenties and early thirties, Kate
+          attended the drawing year at Grand Central Atelier in 2023. Since then
+          she has been teaching art to children and adults while maintaining her
+          own art practice at her studio in Sunset Park, Brooklyn.
         </p>
         <p>
-          To inquire about purchasing work or commissions, please email at
-          info@katelawrence.art
+          To inquire about purchasing work or commissions, please email{" "}
+          <a href="mailto:info@katelawrence.art">info@katelawrence.art</a>.
         </p>
         <p>
           Selected pieces available for purchase at{" "}

@@ -18,6 +18,18 @@ a {
   text-decoration: none;
 }
 
+button {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  display: flex;
+  cursor: pointer;
+}
+
+em {
+  font-size: inherit;
+}
+
 ul {
   list-style-type: none;
   padding-inline-start: 0;
@@ -29,6 +41,10 @@ h2 {
 
 p {
   margin-block-start: 0;
+}
+
+p, li {
+  line-height: 1.2;
 }
 
 .contact-page {
@@ -46,8 +62,4 @@ p {
 
 .contact-page-text a {
   text-decoration: underline;
-}
-
-.contact-page-text p {
-  /* margin-bottom: 0; */
 }
