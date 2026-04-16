@@ -3,7 +3,7 @@ import CaraLogo from "../images/icons/cara-logo.svg";
 import TikTokLogo from "../images/icons/tiktok-logo.svg";
 
 const Socials = () => (
-  <div>
+  <div className="socials">
     <a
       target="_blank"
       rel="noreferrer"
