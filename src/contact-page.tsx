@@ -7,9 +7,9 @@ const ContactPage = () => (
     <div className="contact-page">
       <div className="contact-page-text">
         <p>
-          Kate Lawrence is a fine artist based in Brooklyn, NY. Kate After six
-          years working in the corporate world as software engineer Kate made
-          the decision to begin seriously pursuing her artistic career in 2023.
+          Kate Lawrence is a fine artist based in Brooklyn, NY. After six years
+          working in the corporate world as software engineer, Kate made the
+          decision to begin seriously pursuing her artistic career in 2023.
           Since then she has been teaching art to children and adults while
           maintaining her own art practice at her studio in Sunset Park,
           Brooklyn.
