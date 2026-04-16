@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.acc940a6.css",
+    "main.css": "/static/css/main.a39b0f08.css",
     "main.js": "/static/js/main.07476ecf.js",
     "static/media/headshot.jpg": "/static/media/headshot.c84915d09d833e971e94.jpg",
     "static/media/topo-chico-bottle.jpg": "/static/media/topo-chico-bottle.32a5bba055355c146c1a.jpg",
@@ -15,11 +15,11 @@
     "index.html": "/index.html",
     "static/media/cara-logo.svg": "/static/media/cara-logo.36c281b5a1195060a94006eedd0c34eb.svg",
     "static/media/tiktok-logo.svg": "/static/media/tiktok-logo.aa466aa86c7db4fceb21a35136cfbeaf.svg",
-    "main.acc940a6.css.map": "/static/css/main.acc940a6.css.map",
+    "main.a39b0f08.css.map": "/static/css/main.a39b0f08.css.map",
     "main.07476ecf.js.map": "/static/js/main.07476ecf.js.map"
   },
   "entrypoints": [
-    "static/css/main.acc940a6.css",
+    "static/css/main.a39b0f08.css",
     "static/js/main.07476ecf.js"
   ]
 }
