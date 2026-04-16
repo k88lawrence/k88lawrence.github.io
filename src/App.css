@@ -44,10 +44,15 @@ footer {
 .social-icon {
   height: 18px;
   width: 18px;
+  display: inline-block;
 }
 
-.social-icon:first-of-type {
+.social-icon {
   margin-right: 10px;
+}
+
+.social-icon:last-child {
+  margin-right: 0;
 }
 
 .image-object {
@@ -83,7 +88,8 @@ main {
   .App {
     flex-direction: column;
     overflow: scroll;
-    padding-top: 0px
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
 
   main {
@@ -100,7 +106,8 @@ main {
   }
 
   .mobile-footer {
-    display: inline-block;
+    margin-top: 50px;
+    display: flex;
   }
 
   h1 {

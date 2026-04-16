@@ -3,6 +3,7 @@
   padding-top: 50px;
   background-color: #f5f5f5;
   width: calc(100% - 100px);
+  display: none;
 }
 
 .mobile-header {
@@ -10,6 +11,7 @@
   justify-content: space-between;
   align-items: center;
   margin-bottom: 50px;
+  width: 100%;
 }
 
 .mobile-header h1 {
@@ -66,6 +68,10 @@
 }
 
 @media (max-width: 900px) {
+  .mobile-menu {
+    position: fixed;
+    display: flex;
+  }
   .mobile-header {
     display: flex;
   }

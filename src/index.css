@@ -16,6 +16,7 @@ body {
 a {
   cursor: pointer;
   text-decoration: none;
+  font-size: inherit;
 }
 
 button {
@@ -62,4 +63,20 @@ p, li {
 
 .contact-page-text a {
   text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+
+  .contact-page {
+    flex-direction: column-reverse;
+  }
+
+  .contact-page-image,
+  .contact-page-text {
+    width: 100%;
+  }
+
+    .contact-page-image {
+      margin-bottom: 10px;
+    }
 }
