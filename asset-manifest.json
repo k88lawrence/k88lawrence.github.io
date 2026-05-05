@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.a39b0f08.css",
-    "main.js": "/static/js/main.07476ecf.js",
+    "main.css": "/static/css/main.fbeadad8.css",
+    "main.js": "/static/js/main.9d6d3323.js",
     "static/media/headshot.jpg": "/static/media/headshot.c84915d09d833e971e94.jpg",
+    "static/media/eggs.jpg": "/static/media/eggs.43d026146868b13c56cf.jpg",
+    "static/media/skull3.jpg": "/static/media/skull3.799c144b95efec312792.jpg",
+    "static/media/look-at-the-moon.jpg": "/static/media/look-at-the-moon.d8faf3d051b8ce297938.jpg",
+    "static/media/milk-pitcher.jpg": "/static/media/milk-pitcher.05ac2c24f17ba78a52ec.jpg",
+    "static/media/she-wolf.jpg": "/static/media/she-wolf.7bbaf41c9bc9fe325a6f.jpg",
+    "static/media/deaths-head-moth.jpg": "/static/media/deaths-head-moth.3b4c25ff965226a1309f.jpg",
+    "static/media/self-portrait-mandragora.jpg": "/static/media/self-portrait-mandragora.f78b428fc42d4b87259e.jpg",
     "static/media/topo-chico-bottle.jpg": "/static/media/topo-chico-bottle.32a5bba055355c146c1a.jpg",
     "static/media/tomatoes.jpg": "/static/media/tomatoes.49e6f844f6fb750511ee.jpg",
     "static/media/skull2.jpg": "/static/media/skull2.3e6f5ce3e8f3a62aba57.jpg",
     "static/media/skull1.jpg": "/static/media/skull1.ac36f38c467aca142632.jpg",
     "static/media/strawberries.jpg": "/static/media/strawberries.9d27c4391bc38b735079.jpg",
-    "static/media/she-wolf.jpg": "/static/media/she-wolf.d8cff798a3085e286251.jpg",
     "static/media/self-portrait-hare.jpg": "/static/media/self-portrait-hare.85ee7b0e9578c26a2005.jpg",
     "static/media/self-portrait-sphinx.jpg": "/static/media/self-portrait-sphinx.cb2330175d4731f09d68.jpg",
     "static/media/instagram-logo.svg": "/static/media/instagram-logo.7d0005dcf65d204a6c3a57b3d0eb5192.svg",
     "index.html": "/index.html",
     "static/media/cara-logo.svg": "/static/media/cara-logo.36c281b5a1195060a94006eedd0c34eb.svg",
     "static/media/tiktok-logo.svg": "/static/media/tiktok-logo.aa466aa86c7db4fceb21a35136cfbeaf.svg",
-    "main.a39b0f08.css.map": "/static/css/main.a39b0f08.css.map",
-    "main.07476ecf.js.map": "/static/js/main.07476ecf.js.map"
+    "main.fbeadad8.css.map": "/static/css/main.fbeadad8.css.map",
+    "main.9d6d3323.js.map": "/static/js/main.9d6d3323.js.map"
   },
   "entrypoints": [
-    "static/css/main.a39b0f08.css",
-    "static/js/main.07476ecf.js"
+    "static/css/main.fbeadad8.css",
+    "static/js/main.9d6d3323.js"
   ]
 }
