@@ -7,12 +7,11 @@ const ContactPage = () => (
     <div className="contact-page">
       <div className="contact-page-text">
         <p>
-          Kate Lawrence is a fine artist based in Brooklyn, NY. After six years
-          working in the corporate world as software engineer, Kate made the
-          decision to begin seriously pursuing her artistic career in 2023.
-          Since then she has been teaching art to children and adults while
-          maintaining her own art practice at her studio in Sunset Park,
-          Brooklyn.
+          Kate Lawrence is an artist working in graphite and oils based in
+          Pittsburgh, PA. Her work draws on folklore and fairy tales to explore
+          themes of womanhood and mortality. She has exhibited at Pen + Brush
+          Gallery and Gallery 14C and maintains an active studio practice while
+          teaching art to children and adults.
         </p>
         <p>
           To inquire about purchasing work or commissions, please email{" "}
@@ -65,7 +64,7 @@ const ContactPage = () => (
       <img
         className="contact-page-image"
         src={Headshot}
-        alt="Kate in her studio in Sunset Park, Brooklyn"
+        alt="Kate in her studio"
       />
     </div>
   </Layout>
