@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.fbeadad8.css",
-    "main.js": "/static/js/main.9d6d3323.js",
+    "main.js": "/static/js/main.43fe0be9.js",
     "static/media/headshot.jpg": "/static/media/headshot.c84915d09d833e971e94.jpg",
     "static/media/eggs.jpg": "/static/media/eggs.43d026146868b13c56cf.jpg",
+    "static/media/moon-worship.jpg": "/static/media/moon-worship.a628419b92d0c4c1d9be.jpg",
     "static/media/skull3.jpg": "/static/media/skull3.799c144b95efec312792.jpg",
     "static/media/look-at-the-moon.jpg": "/static/media/look-at-the-moon.d8faf3d051b8ce297938.jpg",
     "static/media/milk-pitcher.jpg": "/static/media/milk-pitcher.05ac2c24f17ba78a52ec.jpg",
@@ -22,10 +23,10 @@
     "static/media/cara-logo.svg": "/static/media/cara-logo.36c281b5a1195060a94006eedd0c34eb.svg",
     "static/media/tiktok-logo.svg": "/static/media/tiktok-logo.aa466aa86c7db4fceb21a35136cfbeaf.svg",
     "main.fbeadad8.css.map": "/static/css/main.fbeadad8.css.map",
-    "main.9d6d3323.js.map": "/static/js/main.9d6d3323.js.map"
+    "main.43fe0be9.js.map": "/static/js/main.43fe0be9.js.map"
   },
   "entrypoints": [
     "static/css/main.fbeadad8.css",
-    "static/js/main.9d6d3323.js"
+    "static/js/main.43fe0be9.js"
   ]
 }
