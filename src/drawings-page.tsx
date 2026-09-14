@@ -7,9 +7,15 @@ import SheWolf from "./images/drawings/she-wolf.jpg";
 import LookAtTheMoon from "./images/drawings/look-at-the-moon.jpg";
 import SelfPortraitMandragora from "./images/drawings/self-portrait-mandragora.jpg";
 import DeathsHeadMoth from "./images/drawings/deaths-head-moth.jpg";
+import MoonWorship from "./images/drawings/moon-worship.jpg";
 
 const DrawingsPage = () => (
   <Layout>
+    <ImageObject image={MoonWorship} title="Moon Worship">
+      <p>2026</p>
+      <p>9" x 12"</p>
+      <p>graphite on paper</p>
+    </ImageObject>
     <ImageObject
       image={SelfPortraitHare}
       title="Self Portrait as a Witch Transforming into a Hare"

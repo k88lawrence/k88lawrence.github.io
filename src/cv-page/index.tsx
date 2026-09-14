@@ -8,7 +8,7 @@ const CVPage = () => (
       <p>
         Born 1991 in New Jersey, USA
         <br />
-        Lives and works in Brooklyn, NY
+        Lives and works in Pittsburgh, PA
       </p>
       <h2>Education</h2>
       <ul>
@@ -22,10 +22,7 @@ const CVPage = () => (
       </ul>
       <h2>Teaching Experience</h2>
       <ul>
-        <li>
-          2026 to Present – Art Instructor, Clinton Hill Middle School,
-          Brooklyn, NY
-        </li>
+        <li>2026 – Art Instructor, Clinton Hill Middle School, Brooklyn, NY</li>
         <li>2024 to 2026 – Art Teacher, The Art Studio NY, New York, NY</li>
       </ul>
       <h2>Residencies/Fellowships</h2>
@@ -37,6 +34,17 @@ const CVPage = () => (
       </ul>
       <h2>Exhibition History</h2>
       <ul>
+        <li>
+          2026 - <em>Cabinet of Curiosities</em> (group), The Nicolaysen Art
+          Museum, Casper, WY
+        </li>
+        <li>
+          2026 - <em>Summer/Fall 2027 Show</em> (group), Salem Cat Museum,
+          Salem, MA
+        </li>
+        <li>
+          2026 - <em>Lore</em> (group), The Compass Gallery, Provo, UT
+        </li>
         <li>
           2026 - <em>The Other Art Fair</em> (fair), Brooklyn, NY
         </li>
@@ -74,6 +82,7 @@ const CVPage = () => (
       <h2>Collections</h2>
       <ul>
         <li>Alvin Hall, New York, NY</li>
+        <li>Constance Wu, New York, NY</li>
       </ul>
     </Layout>
   </>
